@@ -1,3 +1,4 @@
 vkbottle==4.3.3
-loguru==0.5.3
-python-dotenv==0.19.2
+loguru==0.6.0
+python-dotenv==0.20.0
+asyncpg~=0.25.0
